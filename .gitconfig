@@ -1,0 +1,22 @@
+[user]
+# Please adapt and uncomment the following lines:
+        name = Andreas Beuger
+        email = andreas.beuger@mediaplanet.com
+[color]
+        branch = auto
+        diff = auto
+        status = auto
+[color "branch"]
+        current = yellow reverse
+        local = yellow
+        remote = green
+[color "diff"]
+        meta = yellow bold
+        frag = magenta bold
+        old = red bold
+        new = green bold
+[color "status"]
+        added = yellow
+        changed = green
+        untracked = cyan
+
